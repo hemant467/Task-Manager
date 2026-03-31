@@ -145,13 +145,21 @@ Hemant Katta
 
 ---
 
+## 🖼️ Output
+
+<img width="1365" height="712" alt="Result - 1" src="https://github.com/user-attachments/assets/a9818d7a-e511-49c5-83f7-e7eae56aa7b1" />
+
+---
+
+<img width="1362" height="669" alt="Result - 2" src="https://github.com/user-attachments/assets/76f387a2-9e02-40e8-9b8a-08bfaae379eb" />
+
+---
+
 ## ⭐ Support
 
 If you like this project, please ⭐ the repository and share it!
 
 ---
-
-## 
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=🤖+AI+Task+Manager+🚀;Smart+Productivity+Tracking;Organize+%7C+Prioritize+%7C+Achieve;Built+with+Streamlit+%26+Python&font=Fira%20Code&color=%23FFD700&center=true&width=900&height=130&size=26&pause=1000">
 
