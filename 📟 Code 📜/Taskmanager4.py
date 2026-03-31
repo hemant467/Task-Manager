@@ -249,3 +249,6 @@ st.markdown("<hr>", unsafe_allow_html=True)
 st.markdown("<p style='text-align:center;'>🚀 AI Task Manager</p>", unsafe_allow_html=True)
 
 # streamlit run Taskmanager4.py
+
+# PS E:\> cd "E:\GitHub Co-Pilot DEV Days\handson-lab"
+# PS E:\GitHub Co-Pilot DEV Days\handson-lab> streamlit run Taskmanager4.py
