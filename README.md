@@ -78,8 +78,8 @@ Designed with a **glassmorphism UI** and dynamic particle background, this app d
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/your-username/ai-task-manager.git
-cd ai-task-manager
+git clone https://github.com/hemant467/Task-Manager.git
+cd Task-Manager
 ```
 
 ### 2️⃣ Install dependencies
@@ -150,6 +150,8 @@ Hemant Katta
 If you like this project, please ⭐ the repository and share it!
 
 ---
+
+## 
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=🤖+AI+Task+Manager+🚀;Smart+Productivity+Tracking;Organize+%7C+Prioritize+%7C+Achieve;Built+with+Streamlit+%26+Python&font=Fira%20Code&color=%23FFD700&center=true&width=900&height=130&size=26&pause=1000">
 
